@@ -25,11 +25,11 @@ The core of this project lies in creating a fully functional Tic-Tac-Toe game in
 
 For example, a typical game flow might look like this:
 
-``Ruby
+```Ruby
 # Example of a game round
 play_round(player1, player2, game_board)
 # Players take turns marking the board, and the game announces the winner or a draw.
-``
+```
 
 
 ## Getting Started
